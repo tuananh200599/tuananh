@@ -1,0 +1,13 @@
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.exe
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.deps.json
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.runtimeconfig.json
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.runtimeconfig.dev.json
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.dll
+D:\C#\tuananh\loichao\bin\Debug\netcoreapp3.1\loichao.pdb
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.csprojAssemblyReference.cache
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.AssemblyInfoInputs.cache
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.AssemblyInfo.cs
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.dll
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.pdb
+D:\C#\tuananh\loichao\obj\Debug\netcoreapp3.1\loichao.genruntimeconfig.cache
