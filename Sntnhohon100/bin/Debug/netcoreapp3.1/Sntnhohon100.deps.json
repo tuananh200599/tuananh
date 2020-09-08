@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sntnhohon100/1.0.0": {
+        "runtime": {
+          "Sntnhohon100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sntnhohon100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

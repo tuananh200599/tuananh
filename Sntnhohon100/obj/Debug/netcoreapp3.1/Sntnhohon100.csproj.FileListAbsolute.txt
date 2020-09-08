@@ -1,0 +1,13 @@
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.csprojAssemblyReference.cache
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.AssemblyInfoInputs.cache
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.AssemblyInfo.cs
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.exe
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.deps.json
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.runtimeconfig.json
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.runtimeconfig.dev.json
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.dll
+D:\C#\tuananh\Sntnhohon100\bin\Debug\netcoreapp3.1\Sntnhohon100.pdb
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.dll
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.pdb
+D:\C#\tuananh\Sntnhohon100\obj\Debug\netcoreapp3.1\Sntnhohon100.genruntimeconfig.cache
