@@ -1,0 +1,13 @@
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.exe
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.deps.json
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.runtimeconfig.json
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.runtimeconfig.dev.json
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.dll
+D:\C#\tuananh\udtinhtienlai\bin\Debug\netcoreapp3.1\udtinhtienlai.pdb
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.csprojAssemblyReference.cache
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.AssemblyInfoInputs.cache
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.AssemblyInfo.cs
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.dll
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.pdb
+D:\C#\tuananh\udtinhtienlai\obj\Debug\netcoreapp3.1\udtinhtienlai.genruntimeconfig.cache
