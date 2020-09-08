@@ -1,0 +1,13 @@
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.exe
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.deps.json
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.json
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.dev.json
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.dll
+D:\C#\tuananh\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.pdb
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csprojAssemblyReference.cache
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfoInputs.cache
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfo.cs
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.dll
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.pdb
+D:\C#\tuananh\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.genruntimeconfig.cache
