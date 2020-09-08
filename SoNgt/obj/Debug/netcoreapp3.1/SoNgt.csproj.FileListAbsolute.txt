@@ -1,0 +1,13 @@
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.exe
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.deps.json
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.runtimeconfig.json
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.runtimeconfig.dev.json
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.dll
+D:\C#\tuananh\SoNgt\bin\Debug\netcoreapp3.1\SoNgt.pdb
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.csprojAssemblyReference.cache
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.AssemblyInfoInputs.cache
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.AssemblyInfo.cs
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.dll
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.pdb
+D:\C#\tuananh\SoNgt\obj\Debug\netcoreapp3.1\SoNgt.genruntimeconfig.cache
