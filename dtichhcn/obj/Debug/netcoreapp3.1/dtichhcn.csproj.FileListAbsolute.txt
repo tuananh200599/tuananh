@@ -1,0 +1,13 @@
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.exe
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.deps.json
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.runtimeconfig.json
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.runtimeconfig.dev.json
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.dll
+D:\C#\tuananh\dtichhcn\bin\Debug\netcoreapp3.1\dtichhcn.pdb
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.csprojAssemblyReference.cache
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.AssemblyInfoInputs.cache
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.AssemblyInfo.cs
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.dll
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.pdb
+D:\C#\tuananh\dtichhcn\obj\Debug\netcoreapp3.1\dtichhcn.genruntimeconfig.cache
