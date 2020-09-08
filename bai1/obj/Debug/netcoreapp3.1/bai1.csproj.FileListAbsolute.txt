@@ -1,0 +1,13 @@
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.exe
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.deps.json
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.json
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.dev.json
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.dll
+D:\C#\tuananh\bai1\bin\Debug\netcoreapp3.1\bai1.pdb
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.csprojAssemblyReference.cache
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfoInputs.cache
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfo.cs
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.dll
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.pdb
+D:\C#\tuananh\bai1\obj\Debug\netcoreapp3.1\bai1.genruntimeconfig.cache
