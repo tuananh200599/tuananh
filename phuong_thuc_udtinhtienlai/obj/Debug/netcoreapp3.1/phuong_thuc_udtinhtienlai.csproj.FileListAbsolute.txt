@@ -1,0 +1,13 @@
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.exe
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.deps.json
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.runtimeconfig.json
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.runtimeconfig.dev.json
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.dll
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\bin\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.pdb
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.csprojAssemblyReference.cache
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.AssemblyInfoInputs.cache
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.AssemblyInfo.cs
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.dll
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.pdb
+D:\C#\tuananh\phuong_thuc_udtinhtienlai\obj\Debug\netcoreapp3.1\phuong_thuc_udtinhtienlai.genruntimeconfig.cache
