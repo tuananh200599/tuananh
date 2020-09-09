@@ -1,0 +1,13 @@
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.exe
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.deps.json
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.runtimeconfig.json
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.runtimeconfig.dev.json
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.dll
+D:\C#\tuananh\hthi20songto\bin\Debug\netcoreapp3.1\hthi20songto.pdb
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.csprojAssemblyReference.cache
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.AssemblyInfoInputs.cache
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.AssemblyInfo.cs
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.dll
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.pdb
+D:\C#\tuananh\hthi20songto\obj\Debug\netcoreapp3.1\hthi20songto.genruntimeconfig.cache
