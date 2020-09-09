@@ -1,0 +1,13 @@
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.exe
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.deps.json
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.runtimeconfig.json
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.runtimeconfig.dev.json
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.dll
+D:\C#\tuananh\songaytrongthang\bin\Debug\netcoreapp3.1\songaytrongthang.pdb
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.csprojAssemblyReference.cache
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.AssemblyInfoInputs.cache
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.AssemblyInfo.cs
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.dll
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.pdb
+D:\C#\tuananh\songaytrongthang\obj\Debug\netcoreapp3.1\songaytrongthang.genruntimeconfig.cache
