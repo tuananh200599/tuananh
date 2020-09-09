@@ -1,0 +1,13 @@
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.exe
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.deps.json
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.runtimeconfig.json
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.runtimeconfig.dev.json
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.dll
+D:\C#\tuananh\ktranamnhuan\bin\Debug\netcoreapp3.1\ktranamnhuan.pdb
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.csprojAssemblyReference.cache
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.AssemblyInfoInputs.cache
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.AssemblyInfo.cs
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.dll
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.pdb
+D:\C#\tuananh\ktranamnhuan\obj\Debug\netcoreapp3.1\ktranamnhuan.genruntimeconfig.cache
