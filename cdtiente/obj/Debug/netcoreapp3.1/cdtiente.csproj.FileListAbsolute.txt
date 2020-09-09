@@ -1,0 +1,13 @@
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.exe
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.deps.json
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.runtimeconfig.json
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.runtimeconfig.dev.json
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.dll
+D:\C#\tuananh\cdtiente\bin\Debug\netcoreapp3.1\cdtiente.pdb
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.csprojAssemblyReference.cache
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.AssemblyInfoInputs.cache
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.AssemblyInfo.cs
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.dll
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.pdb
+D:\C#\tuananh\cdtiente\obj\Debug\netcoreapp3.1\cdtiente.genruntimeconfig.cache
