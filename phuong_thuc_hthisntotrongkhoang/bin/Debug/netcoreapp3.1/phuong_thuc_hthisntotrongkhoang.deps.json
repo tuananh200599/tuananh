@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "phuong_thuc_hthisntotrongkhoang/1.0.0": {
+        "runtime": {
+          "phuong_thuc_hthisntotrongkhoang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "phuong_thuc_hthisntotrongkhoang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
