@@ -1,0 +1,13 @@
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.exe
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.deps.json
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.runtimeconfig.json
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.runtimeconfig.dev.json
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.dll
+D:\C#\tuananh\phuong_thuc_ktrasngto\bin\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.pdb
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.csprojAssemblyReference.cache
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.AssemblyInfoInputs.cache
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.AssemblyInfo.cs
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.dll
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.pdb
+D:\C#\tuananh\phuong_thuc_ktrasngto\obj\Debug\netcoreapp3.1\phuong_thuc_ktrasngto.genruntimeconfig.cache
