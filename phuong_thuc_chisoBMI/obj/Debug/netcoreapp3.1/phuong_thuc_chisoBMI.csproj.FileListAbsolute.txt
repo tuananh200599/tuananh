@@ -1,0 +1,13 @@
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.exe
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.deps.json
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.runtimeconfig.json
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.runtimeconfig.dev.json
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.dll
+D:\C#\tuananh\phuong_thuc_chisoBMI\bin\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.pdb
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.csprojAssemblyReference.cache
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.AssemblyInfoInputs.cache
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.AssemblyInfo.cs
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.dll
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.pdb
+D:\C#\tuananh\phuong_thuc_chisoBMI\obj\Debug\netcoreapp3.1\phuong_thuc_chisoBMI.genruntimeconfig.cache
