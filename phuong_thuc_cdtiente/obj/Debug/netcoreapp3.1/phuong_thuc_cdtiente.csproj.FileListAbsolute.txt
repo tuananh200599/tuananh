@@ -1,0 +1,13 @@
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.exe
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.deps.json
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.runtimeconfig.json
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.runtimeconfig.dev.json
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.dll
+D:\C#\tuananh\phuong_thuc_cdtiente\bin\Debug\netcoreapp3.1\phuong_thuc_cdtiente.pdb
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.csprojAssemblyReference.cache
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.AssemblyInfoInputs.cache
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.AssemblyInfo.cs
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.dll
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.pdb
+D:\C#\tuananh\phuong_thuc_cdtiente\obj\Debug\netcoreapp3.1\phuong_thuc_cdtiente.genruntimeconfig.cache
