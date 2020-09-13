@@ -1,0 +1,13 @@
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.exe
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.deps.json
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.runtimeconfig.json
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.runtimeconfig.dev.json
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.dll
+D:\C#\tuananh\demsoluongsv\bin\Debug\netcoreapp3.1\demsoluongsv.pdb
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.csprojAssemblyReference.cache
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.AssemblyInfoInputs.cache
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.AssemblyInfo.cs
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.dll
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.pdb
+D:\C#\tuananh\demsoluongsv\obj\Debug\netcoreapp3.1\demsoluongsv.genruntimeconfig.cache
