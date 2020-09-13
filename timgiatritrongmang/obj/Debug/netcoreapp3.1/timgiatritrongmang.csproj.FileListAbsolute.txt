@@ -1,0 +1,13 @@
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.exe
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.deps.json
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.json
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.dev.json
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.dll
+D:\C#\tuananh\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.csprojAssemblyReference.cache
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfoInputs.cache
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfo.cs
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.dll
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+D:\C#\tuananh\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.genruntimeconfig.cache
