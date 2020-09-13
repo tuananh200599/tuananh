@@ -1,0 +1,13 @@
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.exe
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.deps.json
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.runtimeconfig.json
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.runtimeconfig.dev.json
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.dll
+D:\C#\tuananh\giatrilonnhattrongmang\bin\Debug\netcoreapp3.1\giatrilonnhattrongmang.pdb
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.csprojAssemblyReference.cache
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.AssemblyInfoInputs.cache
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.AssemblyInfo.cs
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.dll
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.pdb
+D:\C#\tuananh\giatrilonnhattrongmang\obj\Debug\netcoreapp3.1\giatrilonnhattrongmang.genruntimeconfig.cache
