@@ -1,0 +1,13 @@
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.exe
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.deps.json
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.runtimeconfig.json
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.runtimeconfig.dev.json
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.dll
+D:\C#\tuananh\xoaphantumang\bin\Debug\netcoreapp3.1\xoaphantumang.pdb
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.csprojAssemblyReference.cache
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.AssemblyInfoInputs.cache
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.AssemblyInfo.cs
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.dll
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.pdb
+D:\C#\tuananh\xoaphantumang\obj\Debug\netcoreapp3.1\xoaphantumang.genruntimeconfig.cache
