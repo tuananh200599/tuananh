@@ -1,0 +1,13 @@
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.csprojAssemblyReference.cache
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.AssemblyInfoInputs.cache
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.AssemblyInfo.cs
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.exe
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.deps.json
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.runtimeconfig.json
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.runtimeconfig.dev.json
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.dll
+D:\C#\tuananh\lopquadraticequation\bin\Debug\netcoreapp3.1\lopquadraticequation.pdb
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.dll
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.pdb
+D:\C#\tuananh\lopquadraticequation\obj\Debug\netcoreapp3.1\lopquadraticequation.genruntimeconfig.cache
