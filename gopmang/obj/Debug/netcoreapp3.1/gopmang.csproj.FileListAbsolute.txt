@@ -1,0 +1,13 @@
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.exe
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.deps.json
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.json
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.dev.json
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.dll
+D:\C#\tuananh\gopmang\bin\Debug\netcoreapp3.1\gopmang.pdb
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.csprojAssemblyReference.cache
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfoInputs.cache
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfo.cs
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.dll
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.pdb
+D:\C#\tuananh\gopmang\obj\Debug\netcoreapp3.1\gopmang.genruntimeconfig.cache
