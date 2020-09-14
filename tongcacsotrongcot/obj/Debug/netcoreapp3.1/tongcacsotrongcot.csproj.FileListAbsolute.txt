@@ -1,0 +1,13 @@
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.exe
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.deps.json
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.runtimeconfig.json
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.runtimeconfig.dev.json
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.dll
+D:\C#\tuananh\tongcacsotrongcot\bin\Debug\netcoreapp3.1\tongcacsotrongcot.pdb
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.csprojAssemblyReference.cache
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.AssemblyInfoInputs.cache
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.AssemblyInfo.cs
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.dll
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.pdb
+D:\C#\tuananh\tongcacsotrongcot\obj\Debug\netcoreapp3.1\tongcacsotrongcot.genruntimeconfig.cache
