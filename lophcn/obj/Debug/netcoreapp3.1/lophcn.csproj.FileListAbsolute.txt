@@ -1,0 +1,13 @@
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.exe
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.deps.json
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.runtimeconfig.json
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.runtimeconfig.dev.json
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.dll
+D:\C#\tuananh\lophcn\bin\Debug\netcoreapp3.1\lophcn.pdb
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.csprojAssemblyReference.cache
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.AssemblyInfoInputs.cache
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.AssemblyInfo.cs
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.dll
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.pdb
+D:\C#\tuananh\lophcn\obj\Debug\netcoreapp3.1\lophcn.genruntimeconfig.cache
