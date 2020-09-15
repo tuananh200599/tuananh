@@ -1,0 +1,13 @@
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.exe
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.deps.json
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.runtimeconfig.json
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.runtimeconfig.dev.json
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.dll
+D:\C#\tuananh\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.pdb
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.csprojAssemblyReference.cache
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.AssemblyInfoInputs.cache
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.AssemblyInfo.cs
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.dll
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.pdb
+D:\C#\tuananh\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.genruntimeconfig.cache
