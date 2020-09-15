@@ -1,0 +1,13 @@
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.exe
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.deps.json
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.json
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.dev.json
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.dll
+D:\C#\tuananh\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.pdb
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csprojAssemblyReference.cache
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfoInputs.cache
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfo.cs
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.dll
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.pdb
+D:\C#\tuananh\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.genruntimeconfig.cache
