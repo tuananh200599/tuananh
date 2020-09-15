@@ -1,0 +1,13 @@
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.exe
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.deps.json
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.runtimeconfig.json
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.runtimeconfig.dev.json
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.dll
+D:\C#\tuananh\LopStudent\bin\Debug\netcoreapp3.1\LopStudent.pdb
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.csprojAssemblyReference.cache
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.AssemblyInfoInputs.cache
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.AssemblyInfo.cs
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.dll
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.pdb
+D:\C#\tuananh\LopStudent\obj\Debug\netcoreapp3.1\LopStudent.genruntimeconfig.cache
