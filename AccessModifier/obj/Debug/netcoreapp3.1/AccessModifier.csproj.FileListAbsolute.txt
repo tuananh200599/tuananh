@@ -1,0 +1,13 @@
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.exe
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.deps.json
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.json
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.dev.json
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.dll
+D:\C#\tuananh\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.pdb
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csprojAssemblyReference.cache
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfoInputs.cache
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfo.cs
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
+D:\C#\tuananh\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache
