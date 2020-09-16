@@ -1,0 +1,13 @@
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.exe
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.deps.json
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.runtimeconfig.json
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.runtimeconfig.dev.json
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.dll
+D:\C#\tuananh\Cacdoituonghinhhoc\bin\Debug\netcoreapp3.1\Cacdoituonghinhhoc.pdb
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.csprojAssemblyReference.cache
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.AssemblyInfoInputs.cache
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.AssemblyInfo.cs
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.dll
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.pdb
+D:\C#\tuananh\Cacdoituonghinhhoc\obj\Debug\netcoreapp3.1\Cacdoituonghinhhoc.genruntimeconfig.cache
