@@ -1,0 +1,13 @@
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.exe
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.deps.json
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.runtimeconfig.json
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.runtimeconfig.dev.json
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.dll
+D:\C#\tuananh\AnimalInterfaceEdible\bin\Debug\netcoreapp3.1\AnimalInterfaceEdible.pdb
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.csprojAssemblyReference.cache
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.AssemblyInfoInputs.cache
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.AssemblyInfo.cs
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.dll
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.pdb
+D:\C#\tuananh\AnimalInterfaceEdible\obj\Debug\netcoreapp3.1\AnimalInterfaceEdible.genruntimeconfig.cache
