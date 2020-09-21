@@ -1,0 +1,13 @@
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.exe
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.deps.json
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.runtimeconfig.json
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.runtimeconfig.dev.json
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.dll
+D:\C#\tuananh\Demsolanxuathienkytu\bin\Debug\netcoreapp3.1\Demsolanxuathienkytu.pdb
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.csprojAssemblyReference.cache
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.AssemblyInfoInputs.cache
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.AssemblyInfo.cs
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.dll
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.pdb
+D:\C#\tuananh\Demsolanxuathienkytu\obj\Debug\netcoreapp3.1\Demsolanxuathienkytu.genruntimeconfig.cache
