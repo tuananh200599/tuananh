@@ -1,0 +1,13 @@
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.exe
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.deps.json
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.runtimeconfig.json
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.runtimeconfig.dev.json
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.dll
+D:\C#\tuananh\Tinhtongmatranvuon\bin\Debug\netcoreapp3.1\Tinhtongmatranvuon.pdb
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.csprojAssemblyReference.cache
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.AssemblyInfoInputs.cache
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.AssemblyInfo.cs
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.dll
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.pdb
+D:\C#\tuananh\Tinhtongmatranvuon\obj\Debug\netcoreapp3.1\Tinhtongmatranvuon.genruntimeconfig.cache
