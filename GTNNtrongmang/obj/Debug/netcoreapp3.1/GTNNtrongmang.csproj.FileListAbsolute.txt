@@ -1,0 +1,13 @@
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.exe
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.deps.json
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.runtimeconfig.json
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.runtimeconfig.dev.json
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.dll
+D:\C#\tuananh\GTNNtrongmang\bin\Debug\netcoreapp3.1\GTNNtrongmang.pdb
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.csprojAssemblyReference.cache
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.AssemblyInfoInputs.cache
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.AssemblyInfo.cs
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.dll
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.pdb
+D:\C#\tuananh\GTNNtrongmang\obj\Debug\netcoreapp3.1\GTNNtrongmang.genruntimeconfig.cache
