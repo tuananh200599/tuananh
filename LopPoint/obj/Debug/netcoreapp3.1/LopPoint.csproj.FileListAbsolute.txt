@@ -1,0 +1,13 @@
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.exe
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.deps.json
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.runtimeconfig.json
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.runtimeconfig.dev.json
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.dll
+D:\C#\tuananh\LopPoint\bin\Debug\netcoreapp3.1\LopPoint.pdb
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.csprojAssemblyReference.cache
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.AssemblyInfoInputs.cache
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.AssemblyInfo.cs
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.dll
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.pdb
+D:\C#\tuananh\LopPoint\obj\Debug\netcoreapp3.1\LopPoint.genruntimeconfig.cache
