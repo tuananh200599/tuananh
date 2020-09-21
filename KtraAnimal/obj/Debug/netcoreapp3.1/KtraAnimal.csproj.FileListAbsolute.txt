@@ -1,0 +1,13 @@
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.csprojAssemblyReference.cache
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.AssemblyInfoInputs.cache
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.AssemblyInfo.cs
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.exe
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.deps.json
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.runtimeconfig.json
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.runtimeconfig.dev.json
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.dll
+D:\C#\tuananh\KtraAnimal\bin\Debug\netcoreapp3.1\KtraAnimal.pdb
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.dll
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.pdb
+D:\C#\tuananh\KtraAnimal\obj\Debug\netcoreapp3.1\KtraAnimal.genruntimeconfig.cache
