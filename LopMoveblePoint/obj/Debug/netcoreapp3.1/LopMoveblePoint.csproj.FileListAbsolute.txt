@@ -1,0 +1,13 @@
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.exe
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.deps.json
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.runtimeconfig.json
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.runtimeconfig.dev.json
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.dll
+D:\C#\tuananh\LopMoveblePoint\bin\Debug\netcoreapp3.1\LopMoveblePoint.pdb
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.csprojAssemblyReference.cache
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.AssemblyInfoInputs.cache
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.AssemblyInfo.cs
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.dll
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.pdb
+D:\C#\tuananh\LopMoveblePoint\obj\Debug\netcoreapp3.1\LopMoveblePoint.genruntimeconfig.cache
