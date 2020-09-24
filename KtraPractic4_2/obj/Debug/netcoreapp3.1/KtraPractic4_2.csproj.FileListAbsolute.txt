@@ -1,0 +1,13 @@
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.exe
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.deps.json
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.runtimeconfig.json
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.runtimeconfig.dev.json
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.dll
+D:\C#\tuananh\KtraPractic4_2\bin\Debug\netcoreapp3.1\KtraPractic4_2.pdb
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.csprojAssemblyReference.cache
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.AssemblyInfoInputs.cache
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.AssemblyInfo.cs
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.dll
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.pdb
+D:\C#\tuananh\KtraPractic4_2\obj\Debug\netcoreapp3.1\KtraPractic4_2.genruntimeconfig.cache
