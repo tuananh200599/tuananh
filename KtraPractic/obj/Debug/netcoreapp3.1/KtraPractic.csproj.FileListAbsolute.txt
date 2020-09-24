@@ -1,0 +1,13 @@
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.exe
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.deps.json
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.runtimeconfig.json
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.runtimeconfig.dev.json
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.dll
+D:\C#\tuananh\KtraPractic\bin\Debug\netcoreapp3.1\KtraPractic.pdb
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.csprojAssemblyReference.cache
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.AssemblyInfoInputs.cache
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.AssemblyInfo.cs
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.dll
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.pdb
+D:\C#\tuananh\KtraPractic\obj\Debug\netcoreapp3.1\KtraPractic.genruntimeconfig.cache
