@@ -1,0 +1,13 @@
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.csprojAssemblyReference.cache
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.AssemblyInfoInputs.cache
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.AssemblyInfo.cs
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.exe
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.deps.json
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.runtimeconfig.json
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.runtimeconfig.dev.json
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.dll
+D:\C#\tuananh\ArrayListCrud\bin\Debug\netcoreapp3.1\ArrayListCrud.pdb
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.dll
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.pdb
+D:\C#\tuananh\ArrayListCrud\obj\Debug\netcoreapp3.1\ArrayListCrud.genruntimeconfig.cache
