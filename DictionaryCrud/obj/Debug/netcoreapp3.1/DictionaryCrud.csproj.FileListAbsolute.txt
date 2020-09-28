@@ -1,0 +1,13 @@
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.exe
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.deps.json
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.runtimeconfig.json
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.runtimeconfig.dev.json
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.dll
+D:\C#\tuananh\DictionaryCrud\bin\Debug\netcoreapp3.1\DictionaryCrud.pdb
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.csprojAssemblyReference.cache
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.AssemblyInfoInputs.cache
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.AssemblyInfo.cs
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.dll
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.pdb
+D:\C#\tuananh\DictionaryCrud\obj\Debug\netcoreapp3.1\DictionaryCrud.genruntimeconfig.cache
