@@ -1,0 +1,13 @@
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.exe
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.deps.json
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.runtimeconfig.json
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.runtimeconfig.dev.json
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.dll
+D:\C#\tuananh\Linq_ArrayList\bin\Debug\netcoreapp3.1\Linq_ArrayList.pdb
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.csprojAssemblyReference.cache
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.AssemblyInfoInputs.cache
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.AssemblyInfo.cs
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.dll
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.pdb
+D:\C#\tuananh\Linq_ArrayList\obj\Debug\netcoreapp3.1\Linq_ArrayList.genruntimeconfig.cache
