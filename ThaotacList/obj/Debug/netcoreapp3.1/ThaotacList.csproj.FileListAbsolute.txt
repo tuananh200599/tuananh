@@ -1,0 +1,13 @@
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.exe
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.deps.json
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.runtimeconfig.json
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.runtimeconfig.dev.json
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.dll
+D:\C#\tuananh\ThaotacList\bin\Debug\netcoreapp3.1\ThaotacList.pdb
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.csprojAssemblyReference.cache
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.AssemblyInfoInputs.cache
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.AssemblyInfo.cs
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.dll
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.pdb
+D:\C#\tuananh\ThaotacList\obj\Debug\netcoreapp3.1\ThaotacList.genruntimeconfig.cache
