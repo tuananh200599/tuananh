@@ -1,0 +1,13 @@
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.exe
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.deps.json
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.runtimeconfig.json
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.runtimeconfig.dev.json
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.dll
+D:\C#\tuananh\sdGeneris\bin\Debug\netcoreapp3.1\sdGeneris.pdb
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.csprojAssemblyReference.cache
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.AssemblyInfoInputs.cache
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.AssemblyInfo.cs
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.dll
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.pdb
+D:\C#\tuananh\sdGeneris\obj\Debug\netcoreapp3.1\sdGeneris.genruntimeconfig.cache
