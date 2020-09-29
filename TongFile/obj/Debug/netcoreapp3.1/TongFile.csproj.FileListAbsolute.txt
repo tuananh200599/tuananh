@@ -1,0 +1,13 @@
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.exe
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.deps.json
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.runtimeconfig.json
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.runtimeconfig.dev.json
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.dll
+D:\C#\tuananh\TongFile\bin\Debug\netcoreapp3.1\TongFile.pdb
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.csprojAssemblyReference.cache
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.AssemblyInfoInputs.cache
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.AssemblyInfo.cs
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.dll
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.pdb
+D:\C#\tuananh\TongFile\obj\Debug\netcoreapp3.1\TongFile.genruntimeconfig.cache
