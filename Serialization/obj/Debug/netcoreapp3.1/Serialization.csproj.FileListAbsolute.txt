@@ -1,0 +1,13 @@
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+D:\C#\tuananh\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+D:\C#\tuananh\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache

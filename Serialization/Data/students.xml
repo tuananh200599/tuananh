@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Anh</Name>
+    <Age>35</Age>
+    <Id>1</Id>
+    <Weight>56.6</Weight>
+  </Student>
+  <Student>
+    <Name>Trung</Name>
+    <Age>32</Age>
+    <Id>2</Id>
+    <Weight>66.6</Weight>
+  </Student>
+  <Student>
+    <Name>Nam</Name>
+    <Age>33</Age>
+    <Id>3</Id>
+    <Weight>76.6</Weight>
+  </Student>
+  <Student>
+    <Name>Hoang</Name>
+    <Age>34</Age>
+    <Id>4</Id>
+    <Weight>46.6</Weight>
+  </Student>
+  <Student>
+    <Name>Linh</Name>
+    <Age>31</Age>
+    <Id>5</Id>
+    <Weight>66.6</Weight>
+  </Student>
+</ArrayOfStudent>
