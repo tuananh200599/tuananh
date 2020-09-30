@@ -1,0 +1,13 @@
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.exe
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.deps.json
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.runtimeconfig.json
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.runtimeconfig.dev.json
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.dll
+D:\C#\tuananh\Practical8\bin\Debug\netcoreapp3.1\Practical8.pdb
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.csprojAssemblyReference.cache
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.AssemblyInfoInputs.cache
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.AssemblyInfo.cs
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.dll
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.pdb
+D:\C#\tuananh\Practical8\obj\Debug\netcoreapp3.1\Practical8.genruntimeconfig.cache
