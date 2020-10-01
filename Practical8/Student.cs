@@ -37,9 +37,9 @@ namespace Practical8
                 Console.WriteLine("Fairs Student : ");
             }else if (Rs >= 5){
                 Console.WriteLine("Normal Student : ");
-            }else if (Rs < 5){
+            }else  
                 Console.WriteLine("Bad Student : ");
-            }
+            
             
         }
     }

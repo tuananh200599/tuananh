@@ -1,0 +1,13 @@
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.exe
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.deps.json
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.runtimeconfig.json
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.runtimeconfig.dev.json
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.dll
+D:\C#\tuananh\ktramang\bin\Debug\netcoreapp3.1\ktramang.pdb
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.csprojAssemblyReference.cache
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.AssemblyInfoInputs.cache
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.AssemblyInfo.cs
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.dll
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.pdb
+D:\C#\tuananh\ktramang\obj\Debug\netcoreapp3.1\ktramang.genruntimeconfig.cache
