@@ -1,0 +1,13 @@
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.exe
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.deps.json
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.runtimeconfig.json
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.runtimeconfig.dev.json
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.dll
+D:\C#\tuananh\KtraCau2\bin\Debug\netcoreapp3.1\KtraCau2.pdb
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.csprojAssemblyReference.cache
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.AssemblyInfoInputs.cache
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.AssemblyInfo.cs
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.dll
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.pdb
+D:\C#\tuananh\KtraCau2\obj\Debug\netcoreapp3.1\KtraCau2.genruntimeconfig.cache
