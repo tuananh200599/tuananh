@@ -1,0 +1,13 @@
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.exe
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.deps.json
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.runtimeconfig.json
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.runtimeconfig.dev.json
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.dll
+D:\C#\tuananh\ThicuoimonCau2\bin\Debug\netcoreapp3.1\ThicuoimonCau2.pdb
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.csprojAssemblyReference.cache
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.AssemblyInfoInputs.cache
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.AssemblyInfo.cs
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.csproj.CoreCompileInputs.cache
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.dll
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.pdb
+D:\C#\tuananh\ThicuoimonCau2\obj\Debug\netcoreapp3.1\ThicuoimonCau2.genruntimeconfig.cache
